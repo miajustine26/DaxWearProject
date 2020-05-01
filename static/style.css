@@ -1,0 +1,140 @@
+.jumbotron {
+  background-image: url("daxwear2.png");
+  padding: 100px 305px;
+  font-family: 'Black Ops One', cursive;
+  color: black;
+}
+
+.info1 {
+  font-family: 'Rubik', sans-serif;
+  padding-left: 100px;
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+
+.info2 {
+  font-family: 'Rubik', sans-serif;
+  padding-right: 100px;
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+
+.indent1 {
+  padding-left: 100px
+}
+
+.navbar {
+  margin-bottom: 0;
+  font-size: 15px;
+  border-radius: 0;
+  font-family: 'Rubik', sans-serif;
+  padding: 0px 50px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.button1 {
+  border: 1px black;
+  color: white;
+  font-size: 17px;
+  padding: 12px 25px;
+  background-color: #FE7401;
+}
+
+.button2 {
+  border: 1px black;
+  color: white;
+  font-size: 17px;
+  padding: 12px 25px;
+  background-color: #227A9F;
+}
+
+.about {
+  padding-top: 100px;
+  background-color: #94C4D7;
+}
+
+h1, h4 {
+  font-family: 'Black Ops One', cursive;
+}
+
+h2, p {
+  font-family: 'Rubik', sans-serif;
+}
+
+.hr1 {
+     height: 10px;
+     background-color: #FE7401;
+     margin:  0px 0px;
+}
+
+.hr2 {
+     height: 5px;
+     background-color: #227A9F;
+     margin:  0px 0px;
+}
+
+.visionaries {
+  padding-left: 0px;
+  padding-right: 200px;
+}
+
+.visionaryPic {
+  padding-left: 100px;
+  padding-top: 10px;
+}
+
+.panel-heading {
+  background-color: #FE7401;
+}
+
+.border {
+  border: 3px solid #227A9F;
+}
+
+.hide-left-border {
+  border: 3px solid #227A9F;
+  border-left-style: none;
+}
+
+.hide-right-border {
+  border: 3px solid #227A9F;
+  border-right-style: none;
+}
+
+.padding-top {
+  padding: 75px;
+}
+
+.background1 {
+  background-color: #FE7401;
+}
+
+.background2 {
+  background-color: #227A9F;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 233px;
+  height: 233px;
+  border-radius: 50%;
+}
+
+.lefty1 {
+  height: 691px;
+}
+
+.righty1 {
+  height: 691px;
+}
+
+.lefty2 {
+  height: 498px;
+}
+
+.righty2 {
+  height: 498px;
+}
